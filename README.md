@@ -1,11 +1,9 @@
-Bureau of Reclamation | U.S. Department of the Interior
+U.S. Bureau of Reclamation
+=====
+This is the GitHub Home for U.S. Bureau of Reclamation (USBR). Authorization to use the public GitHub site is established at the Department of Interior level via an Adapted Privacy Impact Assessment published in May 2012 as shown on this [linked document](https://www.doi.gov/sites/doi.gov/files/uploads/GitHub-Adapted-PIA.pdf).
 
-https://github.com/usinterior/usinterior
+### Public Disclaimer:
+The programs, projects, code-bases, and files (FILES) hosted on this site are provided by developers located within different USBR offices and may not necessarily be officially endorsed, developed, or published by USBR. Unless otherwise specified, FILES as originally published constitutes works of the United States Government and are not subject to domestic copyright protection under 17 USC ¤ 105. Subsequent contributions by members of the public, however, retain their original copyright. FILES are provided "AS IS" without warranty of any kind, express or implied, including but not limited to the warranties of merchantibility, fitness for a particular purpose and noninfringement. In no event shall the authors of the Files be liable for any claim, damages or other liability, whether in an action of contract, torto or otherwise, arising from, out of or in connection with the FILES or the use or other dealings in the FILES.
 
-====
-
-This is the GitHub Home for USBR.
-
-
-Send a note to ktarbet to get added to this group.
-
+### Note for existing and potential USBR users:
+Individual developers (you) are responsible for ensuring that the programs, projects, code-bases, and files (FILES) that are uploaded to GitHub are free of issues and questions pertaining to licensing, shareability, intellectual property, personally indetifiable information, and other potential issues that violates established data sharing, information security, code-of-conduct, and other similar rules and regulations. USBR and the moderators of this organizational account will not be held liable for violations or litigation involving any of the FILES hosted on this site. Send a note to ktarbet and/or jrocha to get added to this group.
