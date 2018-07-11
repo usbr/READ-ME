@@ -7,3 +7,5 @@ The programs, projects, code-bases, and files (FILES) hosted on this site are pr
 
 ### Note for existing and potential USBR users:
 Individual developers (you) are responsible for ensuring that the programs, projects, code-bases, and files (FILES) that are uploaded to GitHub are free of issues and questions pertaining to licensing, shareability, intellectual property, personally indetifiable information, and other potential issues that violates established data sharing, information security, code-of-conduct, and other similar rules and regulations. USBR and the moderators of this organizational account will not be held liable for violations or litigation involving any of the FILES hosted on this site. Send a note to ktarbet and/or jrocha to get added to this group.
+
+The Adapted Privacy Impact Assessment covers use of the free GitHub service so long as all projects and repositories are kept publicly available. DO NOT add projects and repositories that are set to _private_ under this organizational account. Keep your _private_ projects under your own personal GitHub account.
